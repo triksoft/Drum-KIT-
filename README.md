@@ -24,6 +24,7 @@ Drum-Kit/
 - JavaScript (Event Handling & Audio API)
 
 ## 📸 Screenshot
+<img width="1440" alt="Screenshot 2025-06-17 at 11 49 18 AM" src="https://github.com/user-attachments/assets/494e8768-9783-4d2d-bfc0-f19b6bacfafb" />
 
 
 ## 💡 Purpose
