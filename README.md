@@ -6,7 +6,7 @@ Press the keyboard keys or click on the drum buttons to play different drum soun
 ## 🎮 How to Play
 
 - Use your **keyboard** to press keys like `w`, `a`, `s`, `d`, `j`, `k`, and `l`.
-- Or **click** on the buttons on screen to play the corresponding drum sounds.(this works...)
+- Or **click** on the buttons on screen to play the corresponding drum sounds.
 - Each button has a unique drum sound and a brief animation when activated.
 
 ## 📁 Project Structure
